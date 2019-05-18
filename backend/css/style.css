@@ -603,3 +603,79 @@ label {
         margin: 50px 0;
     }
 }
+/*ABOUT CAPTION*/
+.form-control-about{
+    height: 93px;
+    width: 155%;
+}
+#about-row-col{
+    width: 73%;
+}
+.form-control-about-mini{
+    height: 39px;
+    width: 100%;
+}
+#about-row-col-mini{
+    width: 100%;
+}
+#text-btn-mini{
+    background-color: #e18484;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 5px;
+    color: white;
+    font-size: 18px;
+    margin-top: 36px;
+}
+#form-group col-sm-5 mini{
+    margin-left: 32%;
+}
+#insert-title-1{
+    border-color: #e18484;
+    resize: none;
+}
+#insert-title-2{
+    border-color: #e18484;
+    resize: none;
+}
+#insert-title-3{
+    border-color: #e18484;
+    resize: none;
+}
+#insert-title-4{
+    border-color: #e18484;
+    resize: none;
+}
+#insert-title-5{
+    border-color: #e18484;
+    resize: none;
+}
+#insert-title-6{
+    border-color: #e18484;
+    resize: none;
+}
+#insert-title-7{
+    border-color: #e18484;
+    resize: none;
+}
+#insert-title-8{
+    border-color: #e18484;
+    resize: none;
+}
+#insert-title-9{
+    border-color: #e18484;
+    resize: none;
+}
+#file-btn-2{
+    background-color: #e18484;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 5px;
+    color: white;
+    font-size: 18px;
+    margin-left: 8px;
+}
+#file-btn:hover{
+    background-color: #9d5c5c;
+    transition: 700ms;
+}
