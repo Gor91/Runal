@@ -276,6 +276,32 @@ header .intro-text {
 	margin: 30px 0;
 }
 /* Services Section */
+.blog-carousel-control {
+	position: relative;
+	width: 100%;
+	text-align: center;
+	padding: 20px 0;
+	display: block;
+}
+.blog-carousel-control a {
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	border: 1px solid #ddd;
+	background: #fff;
+	text-align: center;
+	font-size: 20px;
+	line-height: 20px;
+	color: #000;
+}
+.blog-carousel-control a .fa {
+	line-height: 2px;
+}
+.blog-carousel-control a:hover {
+	background: #e4674e;
+	color: #fff;
+	border-color: #e4674e;
+}
 #services {
 	padding: 100px 0;
 }
@@ -452,16 +478,16 @@ label {
 	box-shadow: transparent;
 }
 .form-control::-webkit-input-placeholder {
-color: #777;
+	color: #777;
 }
 .form-control:-moz-placeholder {
-color: #777;
+	color: #777;
 }
 .form-control::-moz-placeholder {
-color: #777;
+	color: #777;
 }
 .form-control:-ms-input-placeholder {
-color: #777;
+	color: #777;
 }
 #contact .contact-item {
 	margin: 20px 0;
@@ -506,7 +532,8 @@ color: #777;
 }
 
 @media (max-width: 768px) {
-#about img {
-	margin: 50px 0;
+	#about img {
+		margin: 50px 0;
+	}
 }
-}
+
